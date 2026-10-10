@@ -8,7 +8,7 @@ function toggleProfile() {
     if (isMale) {
         image.src = "jane.png";
         image.alt = "Jane's profile";
-        name.textContent = "Name: Ammai";
+        name.textContent = "Name: Jane Doe";
         gender.textContent = "Gender: Female";
     } else {
         image.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUw_snVdV5RDBiSbOfb0xsY2pyu3TQcLtFgbGYeORVQ&s=10";
